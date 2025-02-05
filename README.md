@@ -2,7 +2,9 @@
 
 This project is a comprehensive implementation of a PAN (Permanent Account Number) Database Management System, designed to manage and query PAN-related data efficiently. The system is built using Azure SQL Database and a Java application that interacts with the database via JDBC. The project encompasses the design of an ER diagram, conversion to a relational schema, selection of appropriate storage structures, and implementation of SQL queries and Java-based functionalities. The project was completed as part of the CS4513 Database Management Systems course, following the requirements outlined in the Individual Project-CS4513 F24 (1).pdf provided by the professor.
 
+
 **Repository Contents:**
+
 1.Individual Project-CS4513 F24 (1).pdf:
 The project requirements document provided by the professor, outlining all tasks and deliverables.
 
@@ -18,6 +20,7 @@ Java application code for interacting with the database, including query executi
 5.Project_Report.pdf:
 A comprehensive report documenting the entire project, including design decisions, implementation details, and screenshots.
 
+
 **Technologies Used:**
 
 1.Database: Azure SQL Database
@@ -28,7 +31,8 @@ A comprehensive report documenting the entire project, including design decision
 
 4.File Formats: CSV/JSON for data import/export
 
-How to Use:
+
+**How to Use:**
 
 1.Refer to Individual Project-CS4513 F24 (1).pdf for the complete list of project tasks and requirements.
 
